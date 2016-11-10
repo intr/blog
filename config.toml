@@ -1,0 +1,27 @@
+baseurl = "http://intr.github.io/"
+languageCode = "en-us"
+title = "intr's devblog"
+disqusShortname = "InStars"
+
+[params]
+	showglobe = true
+	
+	analytics = "code-here"
+
+	github = "https://github.com/intr"
+	linkedin = "https://lv.linkedin.com/in/intarslocmelis"
+	email = "intars.locmelis@inbox.lv"
+	
+	profilepic = "img/profile.png"
+	
+	title = "Dev Blog"
+	subtitle = "Intars Ločmelis"
+	
+	[[params.navlinks]]
+	name = "About"
+	url = "about"
+	
+	[[params.navlinks]]
+	name = "Blog"
+	url = ""
+	
