@@ -1,12 +1,12 @@
-# blog
+# blog  
 
-Atom plugins:
-language-markdown
-command-toolbar
-atom-shell-commands
+Atom plugins:  
+language-markdown  
+command-toolbar  
+atom-shell-commands  
 
-
-Atom config.cson
+  
+Atom config.cson  
 "*":
   "atom-shell-commands":
     commands: [
