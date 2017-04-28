@@ -27,3 +27,6 @@ Package Explorer / View Menu / Package Presentation... / Hierarchical
 The "View Menu" can be opened with Ctrl + F10, or the small arrow-down icon in the top-right corner of the Package Explorer.
 
 Package Presentation -> Hierarchical
+
+
+tl;dr; use IntelliJ
