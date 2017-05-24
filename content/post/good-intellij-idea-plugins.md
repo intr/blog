@@ -7,9 +7,11 @@ title = "Good IntelliJ IDEA plugins"
 
 Atlassian Connector for IntelliJ IDE,
 Awesome Console,
+CodeGlance,
 File Watchers,
 GitLab Projects,
 GitToolBox,
 HotSwapAgent,
 Key promoter,
-Log Support
+Log Support,
+Native Neighbourhood
