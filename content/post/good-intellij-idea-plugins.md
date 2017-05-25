@@ -5,10 +5,12 @@ title = "Good IntelliJ IDEA plugins"
 
 +++
 
+Advanced Java Folding,
 Atlassian Connector for IntelliJ IDE,
 Awesome Console,
 CodeGlance,
 File Watchers,
+GenerateAllSetter,
 GitLab Projects,
 GitToolBox,
 HotSwapAgent,
